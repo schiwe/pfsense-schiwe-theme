@@ -5,4 +5,4 @@ Redesign domarques Pfsense Theme with Gray Minimal look and feel. This is a work
 Screenshot
 --------
 
-![Theme preview](preview.jpg "Theme preview")
+![Theme preview](schiwe/preview.jpg "Theme preview")
